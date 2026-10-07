@@ -1,0 +1,15 @@
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\bin\Debug\D3_SemaforoPeluqueria.exe.config
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\bin\Debug\D3_SemaforoPeluqueria.exe
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\bin\Debug\D3_SemaforoPeluqueria.pdb
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.csproj.AssemblyReference.cache
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.csproj.CoreCompileInputs.cache
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.exe
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.pdb
+C:\Users\feife\OneDrive\Escritorio\desarrollo3\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.exe.config
+C:\Users\natal\Downloads\D3_SemaforoPeluqueria\D3_SemaforoPeluqueria\bin\Debug\D3_SemaforoPeluqueria.exe.config
+C:\Users\natal\Downloads\D3_SemaforoPeluqueria\D3_SemaforoPeluqueria\bin\Debug\D3_SemaforoPeluqueria.exe
+C:\Users\natal\Downloads\D3_SemaforoPeluqueria\D3_SemaforoPeluqueria\bin\Debug\D3_SemaforoPeluqueria.pdb
+C:\Users\natal\Downloads\D3_SemaforoPeluqueria\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.csproj.AssemblyReference.cache
+C:\Users\natal\Downloads\D3_SemaforoPeluqueria\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.csproj.CoreCompileInputs.cache
+C:\Users\natal\Downloads\D3_SemaforoPeluqueria\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.exe
+C:\Users\natal\Downloads\D3_SemaforoPeluqueria\D3_SemaforoPeluqueria\obj\Debug\D3_SemaforoPeluqueria.pdb
