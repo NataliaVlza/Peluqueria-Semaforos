@@ -1,9 +1,9 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A2D2FF&reversal=true" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B9E0FF&reversal=true" />
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=600&lines=Simulaci%C3%B3n+Barber%C3%ADa+Concurrente" alt="Simulación Barbería Concurrente" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=1A365D&size=35&center=true&vCenter=true&random=false&width=600&lines=Simulaci%C3%B3n+Barber%C3%ADa+Concurrente" alt="Simulación Barbería Concurrente" /></a>
 </h1>
 <p align="center"><b>Simulación de Procesos Multihilo | Universidad de Sonora</b></p>
 
@@ -43,5 +43,5 @@ Muestra la consola de salida rastreando el flujo en tiempo real: llegada de los 
 <p align="center"><sub>Créditos de componentes visuales: <a href="https://github.com/kyechan99/capsule-render/blob/main/docs/README_es.md">capsule-render</a> por @kyechan99 y <a href="https://github.com/denvercoder1">readme-typing-svg</a> por @DenverCoder1</sub></p>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A2D2FF&section=footer" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B9E0FF&section=footer" />
 </div>
