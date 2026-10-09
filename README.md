@@ -14,7 +14,7 @@
 * **Estudiante:** Natalia Valenzuela ([@NataliaVlza](https://github.com/NataliaVlza))
 * **Institución:** Universidad de Sonora (UNISON) - Facultad Interdisciplinaria de Ingenierías
 * **Modalidad:** Proyecto guiado y desarrollado en sesiones prácticas de laboratorio.
-* **Contacto:** natalia28valenzuela@gmail.com
+* **Contacto:** natalia.sanchezvlza@gmail.com
 * **Ubicación:** Hermosillo, Sonora, México
 
 <br>
@@ -36,7 +36,7 @@
 <p><b>1. Ejecución de la Simulación y Registro de Tiempos</b><br>
 Muestra la consola de salida rastreando el flujo en tiempo real: llegada de los clientes, asignación de cabina controlada por el semáforo, tiempo de espera transcurrido y liberación del recurso tras finalizar la atención.</p>
 
-![Simulación Peluqueros](screenshots/peluqueros.png)
+![Simulación Peluqueros](screenshots/barberia.png)
 
 <br>
 
